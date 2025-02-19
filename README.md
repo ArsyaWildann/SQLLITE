@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## SQ Lite Movie
+![hasil_sqlite](https://github.com/user-attachments/assets/0cc5dc67-0f38-47c5-b433-e228b79a4f7c)
 
-This project is a starting point for a Flutter application.
+![inputan_sqllite](https://github.com/user-attachments/assets/c099ec19-ed15-4e8d-a332-2a9f1c9b74bd)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
